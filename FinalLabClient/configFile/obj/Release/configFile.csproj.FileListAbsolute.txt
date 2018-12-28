@@ -1,0 +1,14 @@
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\bin\Release\configFile.dll.config
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\bin\Release\configFile.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\bin\Release\configFile.pdb
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\obj\Release\configFile.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\obj\Release\configFile.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\obj\Release\configFile.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\obj\Release\configFile.pdb
+D:\devlin\FinalProject\Lab04work\configFile\bin\Release\configFile.dll.config
+D:\devlin\FinalProject\Lab04work\configFile\bin\Release\configFile.dll
+D:\devlin\FinalProject\Lab04work\configFile\bin\Release\configFile.pdb
+D:\devlin\FinalProject\Lab04work\configFile\obj\Release\configFile.csprojResolveAssemblyReference.cache
+D:\devlin\FinalProject\Lab04work\configFile\obj\Release\configFile.csproj.CoreCompileInputs.cache
+D:\devlin\FinalProject\Lab04work\configFile\obj\Release\configFile.dll
+D:\devlin\FinalProject\Lab04work\configFile\obj\Release\configFile.pdb

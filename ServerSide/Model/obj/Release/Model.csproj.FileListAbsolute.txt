@@ -1,0 +1,11 @@
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Model\bin\Release\Model.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Model\bin\Release\Model.pdb
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Model\obj\Release\Model.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Model\obj\Release\Model.pdb
+D:\devlin\FinalProject\ServerSide\Model\bin\Release\Model.dll
+D:\devlin\FinalProject\ServerSide\Model\bin\Release\Model.pdb
+D:\devlin\FinalProject\ServerSide\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+D:\devlin\FinalProject\ServerSide\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+D:\devlin\FinalProject\ServerSide\Model\obj\Release\Model.dll
+D:\devlin\FinalProject\ServerSide\Model\obj\Release\Model.pdb

@@ -1,0 +1,206 @@
+T:\consoleReadAuthors\Repository\bin\Debug\Repository.dll
+T:\consoleReadAuthors\Repository\bin\Debug\Repository.pdb
+T:\consoleReadAuthors\Repository\bin\Debug\configFile.dll
+T:\consoleReadAuthors\Repository\bin\Debug\Model.dll
+T:\consoleReadAuthors\Repository\bin\Debug\configFile.pdb
+T:\consoleReadAuthors\Repository\bin\Debug\Model.pdb
+T:\consoleReadAuthors\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+T:\consoleReadAuthors\Repository\obj\Debug\Repository.dll
+T:\consoleReadAuthors\Repository\obj\Debug\Repository.pdb
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\Repository\bin\Debug\Repository.dll
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\Repository\bin\Debug\Repository.pdb
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\Repository\bin\Debug\configFile.dll
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\Repository\bin\Debug\Model.dll
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\Repository\bin\Debug\configFile.pdb
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\Repository\bin\Debug\Model.pdb
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\Repository\obj\Debug\Repository.dll
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\Repository\obj\Debug\Repository.pdb
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Repository.dll
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Repository.pdb
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\configFile.dll
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Model.dll
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\configFile.pdb
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Model.pdb
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.dll
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Repository.dll
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Model.dll
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Model.pdb
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.dll
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.pdb
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Repository.dll
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Repository.pdb
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\configFile.dll
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Model.dll
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\configFile.pdb
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Model.pdb
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.dll
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Repository.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Model.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\bin\Debug\Model.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\Repository\obj\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04work\Repository\bin\Debug\Repository.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04work\Repository\bin\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04work\Repository\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04work\Repository\bin\Debug\Model.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04work\Repository\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04work\Repository\bin\Debug\Model.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04work\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\Lab04\Lab04work\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Lab04\Lab04work\Repository\obj\Debug\Repository.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04work\Repository\obj\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Repository.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Model.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\configFile.dll.config
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Model.pdb
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\obj\Debug\Repository.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\obj\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Repository.dll
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Repository.pdb
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\configFile.dll
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Model.dll
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\configFile.pdb
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\configFile.dll.config
+D:\devlin\Lab05\Lab04work\Repository\bin\Debug\Model.pdb
+D:\devlin\Lab05\Lab04work\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\devlin\Lab05\Lab04work\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\devlin\Lab05\Lab04work\Repository\obj\Debug\Repository.dll
+D:\devlin\Lab05\Lab04work\Repository\obj\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Repository.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Model.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\configFile.dll.config
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\bin\Debug\Model.pdb
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\obj\Debug\Repository.dll
+C:\Users\NHTI\Desktop\devlin\Lab05\Lab04work\Repository\obj\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Repository.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Model.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\configFile.dll.config
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\bin\Debug\Model.pdb
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\obj\Debug\Repository.dll
+C:\Users\NHTI\Desktop\devlin\TurnInFolder\Lab05\Lab04work\Repository\obj\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Repository.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Model.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\configFile.dll.config
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\bin\Debug\Model.pdb
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\obj\Debug\Repository.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\obj\Debug\Repository.pdb
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Repository.dll
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Repository.pdb
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\configFile.dll
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Model.dll
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\configFile.pdb
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\configFile.dll.config
+D:\devlin\Lab06\Lab04work\Repository\bin\Debug\Model.pdb
+D:\devlin\Lab06\Lab04work\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\devlin\Lab06\Lab04work\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\devlin\Lab06\Lab04work\Repository\obj\Debug\Repository.dll
+D:\devlin\Lab06\Lab04work\Repository\obj\Debug\Repository.pdb
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\NHTI\Desktop\Lab06\Lab04work\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Repository.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Repository.pdb
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\configFile.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Model.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\configFile.pdb
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\configFile.dll.config
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Model.pdb
+D:\devlin\FinalProject\Lab04work\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\devlin\FinalProject\Lab04work\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\devlin\FinalProject\Lab04work\Repository\obj\Debug\Repository.dll
+D:\devlin\FinalProject\Lab04work\Repository\obj\Debug\Repository.pdb
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Newtonsoft.Json.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\System.Net.Http.Formatting.dll
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\Newtonsoft.Json.xml
+D:\devlin\FinalProject\Lab04work\Repository\bin\Debug\System.Net.Http.Formatting.xml

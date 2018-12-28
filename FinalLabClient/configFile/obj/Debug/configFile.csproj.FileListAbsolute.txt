@@ -1,0 +1,73 @@
+T:\consoleReadAuthors\configFile\bin\Debug\configFile.dll
+T:\consoleReadAuthors\configFile\bin\Debug\configFile.pdb
+T:\consoleReadAuthors\configFile\obj\Debug\configFile.csprojResolveAssemblyReference.cache
+T:\consoleReadAuthors\configFile\obj\Debug\configFile.dll
+T:\consoleReadAuthors\configFile\obj\Debug\configFile.pdb
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\configFile\bin\Debug\configFile.dll
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\configFile\bin\Debug\configFile.pdb
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\configFile\obj\Debug\configFile.csprojResolveAssemblyReference.cache
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\configFile\obj\Debug\configFile.dll
+C:\Users\rdellafelice\Desktop\Fall2016\CP240DellafeliceFall2016\MyStuff\Lab04New\myStuff\Ken9_30\consoleReadAuthors\configFile\obj\Debug\configFile.pdb
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\bin\Debug\configFile.dll
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\bin\Debug\configFile.pdb
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.csprojResolveAssemblyReference.cache
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.dll
+C:\Users\rdellafelice\Desktop\Fall2017\CP240Fall2017\Labs\Lab04\Mine2016\Lab04\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.csprojAssemblyReference.cache
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.pdb
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\bin\Debug\configFile.dll
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\bin\Debug\configFile.pdb
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.csprojResolveAssemblyReference.cache
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.csproj.CoreCompileInputs.cache
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.dll
+D:\Fall2018\Lab04Work\Fall 2017\Lab04\Lecture\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04Del\DesignPatterns(Layered)\consoleReadAuthorsUpdated\consoleReadAuthors\configFile\obj\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04work\configFile\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04work\configFile\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab04\Lab04work\configFile\obj\Debug\configFile.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Lab04\Lab04work\configFile\obj\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab04\Lab04work\configFile\obj\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\bin\Debug\configFile.dll.config
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\obj\Debug\configFile.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\obj\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\obj\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab05\Lab04work\configFile\obj\Debug\configFile.csprojResolveAssemblyReference.cache
+D:\devlin\Lab05\Lab04work\configFile\bin\Debug\configFile.dll.config
+D:\devlin\Lab05\Lab04work\configFile\bin\Debug\configFile.dll
+D:\devlin\Lab05\Lab04work\configFile\bin\Debug\configFile.pdb
+D:\devlin\Lab05\Lab04work\configFile\obj\Debug\configFile.csprojResolveAssemblyReference.cache
+D:\devlin\Lab05\Lab04work\configFile\obj\Debug\configFile.csproj.CoreCompileInputs.cache
+D:\devlin\Lab05\Lab04work\configFile\obj\Debug\configFile.dll
+D:\devlin\Lab05\Lab04work\configFile\obj\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab06\Lab04work\configFile\bin\Debug\configFile.dll.config
+C:\Users\NHTI\Desktop\Lab06\Lab04work\configFile\bin\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\configFile\bin\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab06\Lab04work\configFile\obj\Debug\configFile.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\Lab06\Lab04work\configFile\obj\Debug\configFile.dll
+C:\Users\NHTI\Desktop\Lab06\Lab04work\configFile\obj\Debug\configFile.pdb
+C:\Users\NHTI\Desktop\Lab06\Lab04work\configFile\obj\Debug\configFile.csprojAssemblyReference.cache
+D:\devlin\Lab06\Lab04work\configFile\bin\Debug\configFile.dll.config
+D:\devlin\Lab06\Lab04work\configFile\bin\Debug\configFile.dll
+D:\devlin\Lab06\Lab04work\configFile\bin\Debug\configFile.pdb
+D:\devlin\Lab06\Lab04work\configFile\obj\Debug\configFile.csprojResolveAssemblyReference.cache
+D:\devlin\Lab06\Lab04work\configFile\obj\Debug\configFile.csproj.CoreCompileInputs.cache
+D:\devlin\Lab06\Lab04work\configFile\obj\Debug\configFile.dll
+D:\devlin\Lab06\Lab04work\configFile\obj\Debug\configFile.pdb
+D:\devlin\FinalProject\Lab04work\configFile\bin\Debug\configFile.dll.config
+D:\devlin\FinalProject\Lab04work\configFile\bin\Debug\configFile.dll
+D:\devlin\FinalProject\Lab04work\configFile\bin\Debug\configFile.pdb
+D:\devlin\FinalProject\Lab04work\configFile\obj\Debug\configFile.csprojResolveAssemblyReference.cache
+D:\devlin\FinalProject\Lab04work\configFile\obj\Debug\configFile.csproj.CoreCompileInputs.cache
+D:\devlin\FinalProject\Lab04work\configFile\obj\Debug\configFile.dll
+D:\devlin\FinalProject\Lab04work\configFile\obj\Debug\configFile.pdb

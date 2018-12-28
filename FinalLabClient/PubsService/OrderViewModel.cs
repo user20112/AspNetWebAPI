@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PubsService
+{
+    public class OrderViewModel
+    {
+        public string StorID;
+        public string OrderNumber;
+        public string Date;
+        public List<int> Qty;
+        public string PayTerms;
+        public List<string> Books;
+
+        public OrderViewModel(string storid,string ordernumber,string date,List<int> qty,string payterms,List<string>books)
+        {//constructor 
+            StorID = storid;
+            OrderNumber = ordernumber;
+            Date = date;
+            Qty = qty;
+            PayTerms = payterms;
+            Books = books;
+        }
+        
+    }
+}

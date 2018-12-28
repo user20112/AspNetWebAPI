@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSide", "ServerSide\ServerSide.csproj", "{DE0C8FCB-B018-4361-9EA6-F4E3DD06D996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{CC335E64-D07A-4629-8BB7-737E5E9EAFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{CA48A9A0-2917-421A-BCF9-D891739467E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE0C8FCB-B018-4361-9EA6-F4E3DD06D996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0C8FCB-B018-4361-9EA6-F4E3DD06D996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0C8FCB-B018-4361-9EA6-F4E3DD06D996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0C8FCB-B018-4361-9EA6-F4E3DD06D996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC335E64-D07A-4629-8BB7-737E5E9EAFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC335E64-D07A-4629-8BB7-737E5E9EAFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC335E64-D07A-4629-8BB7-737E5E9EAFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC335E64-D07A-4629-8BB7-737E5E9EAFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA48A9A0-2917-421A-BCF9-D891739467E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA48A9A0-2917-421A-BCF9-D891739467E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA48A9A0-2917-421A-BCF9-D891739467E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA48A9A0-2917-421A-BCF9-D891739467E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A42533AC-2B87-40BC-9C58-BC774BDF6C94}
+	EndGlobalSection
+EndGlobal
